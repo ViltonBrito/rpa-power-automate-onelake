@@ -1,7 +1,7 @@
 # 🚀 Pipeline de Automação e Ingestão de Relatórios (Power Automate & Microsoft Fabric)
 
 ## 📌 Visão Geral e Contexto de Negócio
-Este projeto nasceu para resolver um gargalo operacional crítico no setor cooperativo: a extração e o processamento manual de relatórios volumosos a partir de sistemas analíticos internos (SOS e Sisbr Analítico). 
+Este projeto nasceu para resolver um gargalo operacional crítico no setor cooperativo: a extração e o processamento manual de relatórios volumosos a partir de sistemas analíticos internos (Sisbr Analítico). 
 
 Devido à ausência de uma API direta para integração nativa e ao alto tempo de espera no carregamento manual, a rotina exigia esforço humano repetitivo da equipe. 
 
